@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c456f3fa-7f10-4ec7-909c-306c8cb8f812" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/config/KafkaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/service/KafkaConsumerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/config/AdminInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/config/AdminInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/controller/CompanyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/controller/CompanyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/controller/LocationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/controller/LocationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/controller/SensorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/controller/SensorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/controller/SensorDataController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/controller/SensorDataController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/repository/AdminRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/repository/AdminRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/repository/CompanyRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/repository/CompanyRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/repository/LocationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/repository/LocationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/repository/SensorDataRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/repository/SensorDataRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/repository/SensorRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/repository/SensorRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/service/AdminServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/service/AdminServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/service/AdminUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/service/AdminUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/service/CompanyServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/service/CompanyServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/service/IAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/service/IAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/service/ICompanyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/service/ICompanyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/service/ILocationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/service/ILocationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/service/ISensorDataService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/service/ISensorDataService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/service/ISensorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/service/ISensorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/service/LocationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/service/LocationServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/service/SensorDataServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/service/SensorDataServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/service/SensorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-final-e1-master/src/main/java/cl/pfequipo1/proyecto_final/service/SensorServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/config/AdminInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/controller/AdminController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/controller/CompanyController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/controller/LocationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/controller/SensorController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/controller/SensorDataController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/dto/AdminDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/dto/CompanyAdminViewDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/dto/CompanyDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/dto/CompanyRequestDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/dto/LocationDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/dto/SensorDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/dto/SensorDataDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/dto/SensorDataRequestDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/entity/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/entity/Company.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/entity/Location.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/entity/Sensor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/entity/SensorData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/repository/AdminRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/repository/CompanyRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/repository/LocationRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/repository/SensorDataRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/repository/SensorRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/service/AdminServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/service/AdminUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/service/CompanyServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/service/IAdminService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/service/ICompanyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/service/ILocationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/service/ISensorDataService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/service/ISensorService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/service/LocationServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/service/SensorDataServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/pfequipo1/proyecto_final/service/SensorServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cl/pfequipo1/proyecto_final/ProyectoFinalApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cl/pfequipo1/proyecto_final/ProyectoFinalApplicationTests.java" afterDir="false" />
+    </list>
+    <list id="29c83880-04f6-47d7-a0bc-191525ed9c5b" name="Changes by mariajosetolmo" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ubLliOjiKb9jb9qUD1stmRuVWs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.proyecto-final [clean].executor": "Run",
+    "Maven.proyecto-final [dependency:resolve].executor": "Run",
+    "Maven.proyecto-final [install].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.ProyectoFinalApplication.executor": "Run",
+    "git-widget-placeholder": "dev__jose",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Vida/Proyectos Personales/Cursos-Learning/Java/back_end_java/Evaluaciones/Proyecto_final/consumer_sensor",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn dependency:resolve" />
+      <command value="mvn clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ProyectoFinalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="proyecto-final" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cl.pfequipo1.proyecto_final.ProyectoFinalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c456f3fa-7f10-4ec7-909c-306c8cb8f812" name="Changes" comment="" />
+      <created>1742512479702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742512479702</updated>
+      <workItem from="1742512480822" duration="943000" />
+      <workItem from="1742513438335" duration="2003000" />
+      <workItem from="1742515452371" duration="1325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

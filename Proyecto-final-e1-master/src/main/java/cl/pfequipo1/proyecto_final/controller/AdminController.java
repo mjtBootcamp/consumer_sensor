@@ -1,9 +1,5 @@
 package cl.pfequipo1.proyecto_final.controller;
 
-import cl.pfequipo1.proyecto_final.dto.AdminDTO;
-import cl.pfequipo1.proyecto_final.dto.CompanyAdminViewDTO;
-import cl.pfequipo1.proyecto_final.service.AdminServiceImpl;
-import cl.pfequipo1.proyecto_final.service.CompanyServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;

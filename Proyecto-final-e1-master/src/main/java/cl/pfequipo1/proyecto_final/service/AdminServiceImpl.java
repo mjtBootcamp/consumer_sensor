@@ -1,7 +1,5 @@
 package cl.pfequipo1.proyecto_final.service;
 
-import cl.pfequipo1.proyecto_final.dto.AdminDTO;
-import cl.pfequipo1.proyecto_final.repository.AdminRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

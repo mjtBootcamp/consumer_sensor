@@ -1,7 +1,5 @@
 package cl.pfequipo1.proyecto_final.repository;
 
-import cl.pfequipo1.proyecto_final.entity.Sensor;
-import cl.pfequipo1.proyecto_final.entity.SensorData;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

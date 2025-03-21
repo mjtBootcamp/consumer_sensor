@@ -1,8 +1,5 @@
 package cl.pfequipo1.proyecto_final.controller;
 
-import cl.pfequipo1.proyecto_final.dto.SensorDataDTO;
-import cl.pfequipo1.proyecto_final.dto.SensorDataRequestDTO;
-import cl.pfequipo1.proyecto_final.service.SensorDataServiceImpl;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.Content;
 import io.swagger.v3.oas.annotations.media.Schema;

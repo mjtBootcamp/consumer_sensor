@@ -1,7 +1,5 @@
 package cl.pfequipo1.proyecto_final.config;
 
-import cl.pfequipo1.proyecto_final.entity.Admin;
-import cl.pfequipo1.proyecto_final.repository.AdminRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.security.crypto.password.PasswordEncoder;

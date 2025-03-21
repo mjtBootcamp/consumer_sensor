@@ -1,6 +1,5 @@
 package cl.pfequipo1.proyecto_final.config;
 
-import cl.pfequipo1.proyecto_final.service.AdminUserDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

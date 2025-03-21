@@ -1,10 +1,5 @@
 package cl.pfequipo1.proyecto_final.service;
 
-import cl.pfequipo1.proyecto_final.dto.LocationDTO;
-import cl.pfequipo1.proyecto_final.entity.Company;
-import cl.pfequipo1.proyecto_final.entity.Location;
-import cl.pfequipo1.proyecto_final.repository.CompanyRepository;
-import cl.pfequipo1.proyecto_final.repository.LocationRepository;
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;

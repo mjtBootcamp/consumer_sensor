@@ -1,15 +1,5 @@
 package cl.pfequipo1.proyecto_final.service;
 
-import cl.pfequipo1.proyecto_final.dto.SensorDataDTO;
-import cl.pfequipo1.proyecto_final.dto.SensorDataRequestDTO;
-import cl.pfequipo1.proyecto_final.entity.Company;
-import cl.pfequipo1.proyecto_final.entity.Location;
-import cl.pfequipo1.proyecto_final.entity.Sensor;
-import cl.pfequipo1.proyecto_final.entity.SensorData;
-import cl.pfequipo1.proyecto_final.repository.CompanyRepository;
-import cl.pfequipo1.proyecto_final.repository.LocationRepository;
-import cl.pfequipo1.proyecto_final.repository.SensorDataRepository;
-import cl.pfequipo1.proyecto_final.repository.SensorRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

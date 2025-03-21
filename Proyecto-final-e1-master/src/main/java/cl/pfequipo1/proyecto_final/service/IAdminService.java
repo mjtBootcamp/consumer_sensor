@@ -1,7 +1,5 @@
 package cl.pfequipo1.proyecto_final.service;
 
-import cl.pfequipo1.proyecto_final.dto.AdminDTO;
-
 import java.util.List;
 
 public interface IAdminService {
